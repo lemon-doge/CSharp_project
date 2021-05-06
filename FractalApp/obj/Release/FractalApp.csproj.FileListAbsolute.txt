@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\bin\Release\FractalApp.exe.config
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\bin\Release\FractalApp.exe
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\bin\Release\FractalApp.pdb
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.FractalForm.resources
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.MenuForm.resources
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.exe
+C:\Users\Дмитрий\Desktop\projects c#\FractalApp\obj\Release\FractalApp.pdb
